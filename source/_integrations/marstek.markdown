@@ -49,9 +49,6 @@ Before setting up the integration:
 - The device's **OpenAPI** must be enabled in the Marstek app.
 - If you have not set up the device in the app yet, install the Marstek app from the App Store or Google Play, add your device, then open the device settings and enable the local API.
 
-![Open the device settings in the Marstek app](/images/integrations/marstek/openapi-1.jpg)
-![Enable the local API (OpenAPI) toggle](/images/integrations/marstek/openapi-2.jpg)
-
 ## Configuration
 
 {% include integrations/config_flow.md %}
