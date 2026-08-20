@@ -71,8 +71,6 @@ The integration provides the following sensors for your device:
 - **Grid power** — current power exchanged with the grid, in watts.
 - **Device mode** — current operating mode of the device.
 - **Battery status** — current battery charge/discharge status.
-- **Device IP** — the IP address of the device.
-- **Device version** — the firmware version of the device.
 - **PV power / voltage / current / state** — solar (PV) metrics for each of the four PV inputs (PV1–PV4).
 
 ## Data updates
